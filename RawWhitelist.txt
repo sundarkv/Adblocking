@@ -1012,6 +1012,7 @@ feedly.com
 
 #Begin allowable ad services[deals]
 googleadservices.com
+www.googleadservices.com
 qksrv.net
 kqzyfj.com
 tkqlhce.com
